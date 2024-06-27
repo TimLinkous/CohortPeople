@@ -8,7 +8,7 @@ READ the code in the repo.
 There are two class files, and one data file.
 
 `Main.java` has some code that opens up a data text file, and reads it into an ArrayList of Person objects.
-Then, the code loops thru the List and prints out each person's name.
+Then, the code loops thru the List a[FakeData.csv](src%2Fmain%2Fresources%2FFakeData.csv)nd prints out each person's name.
 
 `Person.java` is a "plain old java object".
 It is used to track information about each person.
